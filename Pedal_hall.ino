@@ -1,5 +1,5 @@
 
-
+//Tested only Ardino Mega or Mega2560
 
 #include <EEPROM.h>
 
